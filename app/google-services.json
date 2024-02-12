@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578614719602",
+    "project_id": "beyourbest-ba853",
+    "storage_bucket": "beyourbest-ba853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578614719602:android:9948f3cc3b43d8ee707eeb",
+        "android_client_info": {
+          "package_name": "com.proyectcfgs.beyourbest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQLqqL1lu-RS6z799HcUB-5TCw8DmdM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
