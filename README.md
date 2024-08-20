@@ -15,9 +15,7 @@ BeYourBest es una aplicación móvil para Android diseñada para ayudar a los us
 
 ## Capturas de Pantalla
 
-![Screenshot_20240114_121111](https://github.com/user-attachments/assets/5d80cd91-5ed6-4748-a3cf-0fb9971df31f)
-![Screenshot_20240114_121049](https://github.com/user-attachments/assets/9619182b-5020-4576-8593-c10a4e7ebc93)
-![Screenshot_20240114_121012](https://github.com/user-attachments/assets/0e112cb6-1843-4eb8-94e9-55ad7284d31f)
+![Captura de pantalla 2024-01-14 194515](https://github.com/user-attachments/assets/683fb303-fd97-4010-ab35-90d1507d38f8)
 
 ## Tecnologías Utilizadas
 
